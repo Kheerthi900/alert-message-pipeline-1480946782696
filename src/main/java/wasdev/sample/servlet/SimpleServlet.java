@@ -1,4 +1,4 @@
-package wasdev.sample.servlet;
+package wasdev.
 
 import java.io.IOException;
 
